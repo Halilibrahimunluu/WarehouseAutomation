@@ -1,0 +1,15 @@
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\Stok_Takip_Sistemi.exe
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\bin\Debug\Stok_Takip_Sistemi.pdb
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.Properties.Resources.resources
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.csproj.GenerateResource.Cache
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.exe
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.pdb
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.frmMüsteriEkle.resources
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.musterilistele.resources
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.satis.resources
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.frmKategori.resources
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.frmMarka.resources
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.frmUrunEkle.resources
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.frmÜrünListeleme.resources
+C:\Users\halil\OneDrive\Masaüstü\Okul\Masaüstü Stok Takip\Stok_Takip_Sistemi\Stok_Takip_Sistemi\obj\x86\Debug\Stok_Takip_Sistemi.frmSatisListele.resources
