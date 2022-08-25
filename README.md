@@ -14,11 +14,11 @@
 # Some Images From The Automation. - Otomasyondan Bazı Görüntüler.
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQF-f1n4hlFhOw/feedshare-shrink_800/0/1661419864169?e=1664409600&v=beta&t=yrsD-Z4RPzPQhTFB5xcygEAttgBLbeSAgE6rvtkifYI" width="400" title="Sales Page - Satış Sayfası">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQF-f1n4hlFhOw/feedshare-shrink_800/0/1661419864169?e=1664409600&v=beta&t=yrsD-Z4RPzPQhTFB5xcygEAttgBLbeSAgE6rvtkifYI" width="500" title="Sales Page - Satış Sayfası">
 </p>
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFAqrJm1AEpMQ/feedshare-shrink_800/0/1661419864276?e=1664409600&v=beta&t=F2MwatZ60CjChV3MzeNw0cpKjGnfX2HGb-dUM7X6sv4" width="400" title="Product Page - Ürün Sayfası">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFAqrJm1AEpMQ/feedshare-shrink_800/0/1661419864276?e=1664409600&v=beta&t=F2MwatZ60CjChV3MzeNw0cpKjGnfX2HGb-dUM7X6sv4" width="500" title="Product Page - Ürün Sayfası">
 </p>
 
 # Follow Me on Social Media. - Beni Sosyal Medya'da Takip Edin.
