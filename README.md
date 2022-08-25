@@ -1,6 +1,6 @@
 # Warehouse Stock Tracking Automation
 * Warehouse Stock Tracking Automation with C# and MSSQL...
-![alt text](https://halilibrahimunlu.rf.gd/assets/img/portfolio/mobil/wp.jpg)
+![alt text](https://teloji.com/wp-content/uploads/2018/02/google-da-gorsel-arama.jpg)
 # Depo Stok Takip Otomasyonu
 * C# ve MSSQL ile Depo Stok Takip Otomasyonu Yapımı...
 
